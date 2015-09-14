@@ -28,6 +28,7 @@ section img {
 
 li {
   float:right;
+  list-style-type: none;
 }
 
 a {
